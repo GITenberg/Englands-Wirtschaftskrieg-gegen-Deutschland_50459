@@ -1,4 +1,8 @@
 _repo: Englands-Wirtschaftskrieg-gegen-Deutschland_50459
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50459-h/images/cover.jpg
 creator:
   author:
     agent_name: Stresemann, Gustav
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36394
     wikipedia: http://de.wikipedia.org/wiki/Gustav_Stresemann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50459#Englands-Wirtschaftskrieg-gegen-Deutschland
 gutenberg_issued: '2015-11-15'
 gutenberg_type: Text
 identifiers:
